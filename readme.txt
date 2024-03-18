@@ -42,15 +42,15 @@ Buzzer:
 ⦁	Supply with ground and 3V
 
 Moving Forward:
-TO improve I would probably create a helper method for the self-checking/pushing. There was a heavy time constraint to get the demo working. This shouldn't have been a issue in the first place, but we had some faulty parts. So with little time and no budget, that was the solution.
+To improve I would probably create a helper method for the self-checking/pushing. There was a heavy time constraint to get the demo working. This shouldn't have been a issue in the first place, but we had some faulty parts. So with little time and no budget, that was the solution.
 
 Note:
 the only code that is needed to configure the script is main.py. Everything else is either a library used or a test of the parts/scan
-That being said you do need to have the libraries isntalled onto the pico
+That being said you do need to have the libraries installed onto the pico
 
 Also if the pin layout needs to be differnt make sure to update the code to reflect it
 
-Link to a short YouTube video:
+Link to a short YouTube demo video:
 https://www.youtube.com/watch?v=sEOtqeTDLdg
 
 This Project was inspired by 
